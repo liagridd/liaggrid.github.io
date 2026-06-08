@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.png
   image_circular: false
 
 selected_papers: true
@@ -23,6 +23,4 @@ latest_posts:
 ---
 
 
-
 I received Bachelor's degree in Elementary Education from <a href="#">Seoul National University of Education</a>. My research interest lies in: Human-Computer Interaction, Artificial Intelligence.
-
